@@ -1,8 +1,16 @@
-# React + Vite
+# 🎬 Video Upload Frontend (React + Bootstrap)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **React-based frontend** for uploading videos to the backend and displaying them.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 **Setup Instructions**
+
+### 🔹 **1. Clone the Repository**
+```sh
+git clone https://github.com/yourusername/clinikk-frontend.git
+cd clinikk-frontend
+npm install(to install all dependencies)
+npm run dev(this will start the development server)
+
+
